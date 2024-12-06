@@ -1,9 +1,5 @@
 # Distributed Systems Free Resources
 
-[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
-
-> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
-
 🌐 Scale your knowledge with our Distributed Systems Network repository! Dive into a comprehensive collection of free resources and an online Playground focused on distributed computing. Master the art of designing scalable, fault-tolerant systems for the cloud era.
 
 ## Resources
